@@ -1,24 +1,20 @@
-# README
+#  session_practice
+![lic](https://img.shields.io/github/license/Kravchadev/session_practice) ![lic](https://img.shields.io/github/downloads/Kravchadev/session_practice/total)
+Ruby on Rails приложение реализующее простое создание сессий и авторизации пользователей
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Освоенные навыки
+- Системные зависимости;
+- Создание базы данных;
+- Инициализация и миграция базы данных
+- Развертывание сервера на puma;
 
-Things you may want to cover:
+### Развертывание приложения
+```
+$ cd session_practice
+```
 
-* Ruby version
+```
+$ rails s
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Перейти к приложению можно по адресу ```localhost:3000 ``` 
