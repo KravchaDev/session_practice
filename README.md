@@ -1,5 +1,6 @@
 #  session_practice
 ![lic](https://img.shields.io/github/license/Kravchadev/session_practice) ![lic](https://img.shields.io/github/downloads/Kravchadev/session_practice/total)
+
 Ruby on Rails приложение реализующее простое создание сессий и авторизации пользователей
 
 ### Освоенные навыки
